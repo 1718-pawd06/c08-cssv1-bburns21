@@ -1,0 +1,19 @@
+/*
+* Brooke Burns
+* Date
+* Description of Project
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Put body attributes here */
+
+body { 
+	background-color:green;
+	color:black;
+}
